@@ -1,4 +1,4 @@
-# Phone Catalog ✅
+# to-do App ✅
 Welcome to the To-Do App project, a comprehensive application for managing tasks efficiently. 
 This app provides features like toggling task status, renaming tasks, adding and deleting tasks, and filtering tasks by their status.
 
