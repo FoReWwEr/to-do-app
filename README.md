@@ -8,8 +8,8 @@ This app provides features like toggling task status, renaming tasks, adding and
 3) **SCSS**: A powerful CSS preprocessor for maintaining clean and modular styling.
 
 # 🚀 Getting Started
-1) **Repository Clone**: git clone https://github.com/FoReWwEr/phone-catalog.git
-2) **Navigate to Project Directory**: cd phone-catalog
+1) **Repository Clone**: git clone https://github.com/FoReWwEr/to-do-app.git
+2) **Navigate to Project Directory**: cd to-do-app
 3) **Dependencies Installation**: npm install
 4) **Development Server**: npm start
 
