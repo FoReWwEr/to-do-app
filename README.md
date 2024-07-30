@@ -13,4 +13,4 @@ This app provides features like toggling task status, renaming tasks, adding and
 3) **Dependencies Installation**: npm install
 4) **Development Server**: npm start
 
-# [DEMO LINK](https://forewwer.github.io/museum-landing/)
+# [DEMO LINK](https://forewwer.github.io/to-do-app/)
