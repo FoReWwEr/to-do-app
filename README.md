@@ -6,6 +6,7 @@ This app provides features like toggling task status, renaming tasks, adding and
 1) **React**: A JavaScript library for building user interfaces.
 2) **TypeScript**: JavaScript with syntax for types.
 3) **SCSS**: A powerful CSS preprocessor for maintaining clean and modular styling.
+4) **BEM Methodology**: For structuring CSS classes in a modular and maintainable way.
 
 # 🚀 Getting Started
 1) **Repository Clone**: git clone https://github.com/FoReWwEr/to-do-app.git
